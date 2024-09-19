@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 something
+=======
+playing with merge
+you can't merge to pronn, as it has conflict
+>>>>>>> development
